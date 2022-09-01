@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @M-Anjo
-- 👀 I’m interested in Back End
-- 🌱 I’m currently learning Python
+Estou tentando me especializar em data science 
 
 
 <!---
