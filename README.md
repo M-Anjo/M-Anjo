@@ -5,6 +5,7 @@
 <div>
 
 ![M-Anjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Anjo&show_icons=true&theme=synthwave)
+
 </div>
 
 <div style="display: inline_block"><br/>
